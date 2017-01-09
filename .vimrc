@@ -42,8 +42,8 @@ colorscheme PaperColor
 nnoremap \ :noh<CR>
 
 " more ways to escape
-imap jj <ESC>
-map <TAB> <ESC>
+imap    jj <ESC>
+map  <TAB> <ESC>
 
 " swap : with ;
 noremap ; :
@@ -58,13 +58,13 @@ noremap <D-5> :tabn 5<CR>
 noremap <D-0> :tablast<CR>
 
 " disable arrow keys
-noremap  <Up>    <NOP>
-noremap  <Down>  <NOP>
-noremap  <Left>  <NOP>
+noremap     <Up> <NOP>
+noremap   <Down> <NOP>
+noremap   <Left> <NOP>
 noremap  <Right> <NOP>
-inoremap <Up>    <NOP>
-inoremap <Down>  <NOP>
-inoremap <Left>  <NOP>
+inoremap    <Up> <NOP>
+inoremap  <Down> <NOP>
+inoremap  <Left> <NOP>
 inoremap <Right> <NOP>
 
 " plugin setting: airline
