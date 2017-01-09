@@ -41,8 +41,13 @@ colorscheme PaperColor
 " clear highlight search
 nnoremap \ :noh<CR>
 
-" escape from Insert Mode
+" more ways to escape
 imap jj <ESC>
+map <TAB> <ESC>
+
+" swap : with ;
+noremap ; :
+noremap : ;
 
 " switch tabs
 noremap <D-1> :tabn 1<CR>
