@@ -29,6 +29,7 @@ set number
 set relativenumber
 set cursorline
 set cursorcolumn
+set colorcolumn=80
 set hlsearch
 set incsearch
 
