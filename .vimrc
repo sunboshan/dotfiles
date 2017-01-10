@@ -41,9 +41,8 @@ colorscheme PaperColor
 " clear highlight search
 nnoremap \ :noh<CR>
 
-" more ways to escape
-imap    jj <ESC>
-map  <TAB> <ESC>
+" quicker way to escape
+imap jj <ESC>
 
 " swap : with ;
 noremap ; :
