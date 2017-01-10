@@ -83,7 +83,7 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline#parts#ffenc#skip_expected_string = 'utf-8[unix]'
 
 " plugin setting: NERDTree
-map <C-e> :NERDTreeToggle<CR>
+noremap <C-e> :NERDTreeToggle<CR>
 let NERDTreeQuitOnOpen = 1
 
 " plugin setting: CtrlP
