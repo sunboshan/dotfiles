@@ -32,6 +32,8 @@ set cursorcolumn
 set colorcolumn=80
 set hlsearch
 set incsearch
+set list
+set listchars=tab:▸\ ,eol:¬
 
 " theme setting
 syntax enable
