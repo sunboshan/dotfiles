@@ -15,6 +15,7 @@ Plugin 'ctrlpvim/ctrlp.vim'             " Fuzzy file/buffer finder
 Plugin 'elixir-lang/vim-elixir'         " Elixir syntax support
 Plugin 'tpope/vim-endwise'              " Adding end
 Plugin 'tpope/vim-commentary'           " Adding comment
+Plugin 'tpope/vim-surround'             " Surround
 Plugin 'junegunn/vim-easy-align'        " Alignment helper
 
 call vundle#end()            " required
@@ -22,6 +23,7 @@ filetype plugin indent on    " required
 
 " general setting
 set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h20
+set guioptions-=r
 set showcmd
 set laststatus=2
 set ruler
