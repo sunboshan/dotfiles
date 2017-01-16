@@ -1,7 +1,7 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
-" vundle setting
+" Vundle setting
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
@@ -17,7 +17,7 @@ Plugin 'tpope/vim-endwise'              " Adding end
 Plugin 'tpope/vim-commentary'           " Adding comment
 Plugin 'tpope/vim-surround'             " Surround
 Plugin 'junegunn/vim-easy-align'        " Alignment helper
-Plugin 'goldfeld/vim-seek'              " f with 2 chars
+Plugin 'easymotion/vim-easymotion'      " Motion on speed
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -104,3 +104,8 @@ let g:ctrlp_cmd = 'CtrlPBuffer'
 " plugin setting: Easy Align
 nmap ga <Plug>(EasyAlign)
 xmap ga <Plug>(EasyAlign)
+
+" plugin setting: Easy Motion
+let g:EasyMotion_do_mapping = 0
+let g:EasyMotion_smartcase  = 1
+nmap s <Plug>(easymotion-s2)
