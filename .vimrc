@@ -17,6 +17,7 @@ Plugin 'tpope/vim-endwise'              " Adding end
 Plugin 'tpope/vim-commentary'           " Adding comment
 Plugin 'tpope/vim-surround'             " Surround
 Plugin 'junegunn/vim-easy-align'        " Alignment helper
+Plugin 'goldfeld/vim-seek'              " f with 2 chars
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -51,6 +52,13 @@ imap jj <ESC>
 " swap : with ;
 noremap ; :
 noremap : ;
+
+" copy all text
+nnoremap K :%y*<CR>
+
+" better navigation in command mode
+cnoremap <C-p> <Up>
+cnoremap <C-n> <Down>
 
 " switch tabs
 noremap <D-1> :tabn 1<CR>
