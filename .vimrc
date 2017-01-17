@@ -99,7 +99,7 @@ noremap <C-e> :NERDTreeToggle<CR>
 let NERDTreeQuitOnOpen = 1
 
 " plugin setting: CtrlP
-let g:ctrlp_cmd = 'CtrlPBuffer'
+let g:ctrlp_cmd = 'CtrlPMRU'
 
 " plugin setting: Easy Align
 nmap ga <Plug>(EasyAlign)
