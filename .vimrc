@@ -13,11 +13,11 @@ Plugin 'NLKNguyen/papercolor-theme'     " Papercolor theme
 Plugin 'scrooloose/nerdtree'            " File manager
 Plugin 'ctrlpvim/ctrlp.vim'             " Fuzzy file/buffer finder
 Plugin 'elixir-lang/vim-elixir'         " Elixir syntax support
+Plugin 'easymotion/vim-easymotion'      " Motion on speed
 Plugin 'tpope/vim-endwise'              " Adding end
 Plugin 'tpope/vim-commentary'           " Adding comment
 Plugin 'tpope/vim-surround'             " Surround
 Plugin 'junegunn/vim-easy-align'        " Alignment helper
-Plugin 'easymotion/vim-easymotion'      " Motion on speed
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -36,7 +36,7 @@ set colorcolumn=80
 set hlsearch
 set incsearch
 set list
-set listchars=tab:▸\ ,eol:¬
+set listchars=tab:▸\ ,eol:¬,trail:•
 
 " theme setting
 syntax enable
@@ -95,7 +95,7 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline#parts#ffenc#skip_expected_string = 'utf-8[unix]'
 
 " plugin setting: NERDTree
-noremap <C-e> :NERDTreeToggle<CR>
+noremap <C-t> :NERDTreeToggle<CR>
 let NERDTreeQuitOnOpen = 1
 
 " plugin setting: CtrlP
@@ -108,4 +108,4 @@ xmap ga <Plug>(EasyAlign)
 " plugin setting: Easy Motion
 let g:EasyMotion_do_mapping = 0
 let g:EasyMotion_smartcase  = 1
-nmap s <Plug>(easymotion-s2)
+nmap <Space> <Plug>(easymotion-overwin-f)
