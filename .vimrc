@@ -1,5 +1,5 @@
-set nocompatible              " be iMproved, required
-filetype off                  " required
+set nocompatible             " be iMproved, required
+filetype off                 " required
 
 " Vundle setting
 set rtp+=~/.vim/bundle/Vundle.vim
@@ -21,6 +21,7 @@ Plugin 'junegunn/vim-easy-align'        " Alignment helper
 
 call vundle#end()            " required
 filetype plugin indent on    " required
+runtime macros/matchit.vim   " enable matchit plugin
 
 " general setting
 set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h20
@@ -68,7 +69,7 @@ noremap <D-4> :tabn 4<CR>
 noremap <D-5> :tabn 5<CR>
 noremap <D-0> :tablast<CR>
 
-" disable arrow keys
+" disable arrow keys for good
 noremap     <Up> <NOP>
 noremap   <Down> <NOP>
 noremap   <Left> <NOP>
