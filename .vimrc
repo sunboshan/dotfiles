@@ -24,20 +24,20 @@ filetype plugin indent on    " required
 runtime macros/matchit.vim   " enable matchit plugin
 
 " general setting
-set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h20
-set guioptions-=r
-set showcmd
-set laststatus=2
-set ruler
-set number
-set relativenumber
-set cursorline
-set cursorcolumn
-set colorcolumn=80
-set hlsearch
-set incsearch
-set list
-set listchars=tab:▸\ ,eol:¬,trail:•
+set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h20 " powerline font
+set guioptions-=r                                " hide right scroll bar
+set laststatus=2                                 " always show status
+set showcmd                                      " show command
+set ruler                                        " display ruler
+set number                                       " display line number
+set relativenumber                               " display relative line number
+set cursorline                                   " display horizontal cursor line
+set cursorcolumn                                 " display vertical cursor line
+set colorcolumn=80                               " set a line marker
+set hlsearch                                     " enable highlight search
+set incsearch                                    " enable incremental search
+set list                                         " display invisible characters
+set listchars=tab:▸\ ,eol:¬,trail:•              " set invisible characters
 
 " theme setting
 syntax enable
@@ -45,14 +45,17 @@ set background=light
 colorscheme PaperColor
 
 " clear highlight search
-nnoremap \ :noh<CR>
+nnoremap \ :nohlsearch<CR>
 
-" quicker way to escape
+" another way to escape from Insert Mode
 imap jj <ESC>
 
 " swap : with ;
 noremap ; :
 noremap : ;
+
+" yank to eol
+noremap Y y$
 
 " copy all text
 nnoremap K :%y*<CR>
