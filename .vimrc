@@ -45,7 +45,7 @@ set background=light
 colorscheme PaperColor
 
 " clear highlight search
-nnoremap \ :nohlsearch<CR>
+nnoremap <BS> :nohlsearch<CR>
 
 " another way to escape from Insert Mode
 imap jj <ESC>
@@ -54,11 +54,20 @@ imap jj <ESC>
 noremap ; :
 noremap : ;
 
-" yank to eol
+" [Y]ank to eol
 noremap Y y$
 
-" copy all text
-nnoremap K :%y*<CR>
+" [d]elete all text
+nnoremap <leader>d :%d<CR>
+
+" [c]opy all text to system clipboard
+nnoremap <leader>c :%y*<CR>
+
+" [r]eplace current text with system clipboard and save
+nnoremap <leader>r :%d<CR>"*p:w<CR>
+
+" [Q]uit all buffers without saving (USE WITH CAUTION)
+nnoremap <leader>Q :qa!<CR>
 
 " better navigation in command mode
 cnoremap <C-p> <Up>
