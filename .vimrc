@@ -21,11 +21,11 @@ Plugin 'junegunn/vim-easy-align'        " Alignment helper
 
 call vundle#end()            " required
 filetype plugin indent on    " required
-runtime macros/matchit.vim   " enable matchit plugin
 
 " general setting
-set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h20 " powerline font
+set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h18 " powerline font
 set guioptions-=r                                " hide right scroll bar
+set guioptions-=L                                " hide left scroll bar
 set laststatus=2                                 " always show status
 set showcmd                                      " show command
 set ruler                                        " display ruler
@@ -64,7 +64,7 @@ nnoremap <leader>d :%d<CR>
 nnoremap <leader>c :%y*<CR>
 
 " [r]eplace current text with system clipboard and save
-nnoremap <leader>r :%d<CR>"*p:w<CR>
+nnoremap <leader>r :%d<CR>"*P:w<CR>
 
 " [Q]uit all buffers without saving (USE WITH CAUTION)
 nnoremap <leader>Q :qa!<CR>
@@ -97,6 +97,7 @@ let g:airline_powerline_fonts = 1
 let g:airline_left_sep = ''
 let g:airline_right_sep = ''
 let g:airline_right_alt_sep = ''
+let g:airline_section_x = '%{&filetype}'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#show_buffers = 0
 let g:airline#extensions#tabline#show_splits = 0
