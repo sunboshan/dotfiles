@@ -43,6 +43,9 @@ syntax enable
 set background=light
 colorscheme PaperColor
 
+" erlang indentation
+autocmd FileType erlang :set shiftwidth=2
+
 " clear highlight search
 nnoremap <BS> :nohlsearch<CR>
 
@@ -67,6 +70,9 @@ nnoremap <leader>r :%d<CR>"*P:w<CR>
 
 " [Q]uit all buffers without saving (USE WITH CAUTION)
 nnoremap <leader>Q :qa!<CR>
+
+" Quick change raw JSON to Elixir map
+nnoremap <leader>j :%s/null/nil/g<CR>:%s/{/%{/g<CR>:%s/:/: /g<CR>
 
 " better navigation in command mode
 cnoremap <C-p> <Up>
