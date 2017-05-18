@@ -44,7 +44,8 @@ set background=light
 colorscheme PaperColor
 
 " erlang indentation
-autocmd FileType erlang :set shiftwidth=2
+autocmd FileType erlang set shiftwidth=2
+autocmd FileType erlang set expandtab
 
 " clear highlight search
 nnoremap <BS> :nohlsearch<CR>
