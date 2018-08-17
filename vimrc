@@ -13,6 +13,7 @@ Plugin 'NLKNguyen/papercolor-theme'     " Papercolor theme
 Plugin 'scrooloose/nerdtree'            " File manager
 Plugin 'ctrlpvim/ctrlp.vim'             " Fuzzy file/buffer finder
 Plugin 'elixir-lang/vim-elixir'         " Elixir syntax support
+Plugin 'mhinz/vim-mix-format'           " Elixir code formatter
 Plugin 'easymotion/vim-easymotion'      " Motion on speed
 Plugin 'tpope/vim-commentary'           " Adding comment
 Plugin 'tpope/vim-surround'             " Surround
@@ -44,7 +45,8 @@ set background=light
 colorscheme PaperColor
 
 " erlang indentation
-autocmd FileType erlang set shiftwidth=2
+autocmd FileType erlang set shiftwidth=4
+autocmd FileType erlang set tabstop=4
 autocmd FileType erlang set expandtab
 
 " clear highlight search
