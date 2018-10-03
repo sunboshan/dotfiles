@@ -46,7 +46,7 @@ colorscheme PaperColor
 
 " erlang indentation
 autocmd FileType erlang set shiftwidth=4
-autocmd FileType erlang set tabstop=4
+autocmd FileType erlang set tabstop=8
 autocmd FileType erlang set expandtab
 
 " clear highlight search
