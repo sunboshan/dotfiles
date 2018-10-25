@@ -1,4 +1,4 @@
-# dotfile
+# dotfiles
 Repo for dotfiles.
 
 ## .vimrc
