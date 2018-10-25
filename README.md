@@ -6,6 +6,13 @@ Repo for dotfiles.
 1. `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim` to install [Vundle](https://github.com/VundleVim/Vundle.vim)
 2. ``ln -s `pwd`/vimrc ~/.vimrc``
 3. In vim, run `:PluginInstall`
+4. To use nvim, in `~/.config/nvim/init.vim`
+
+    ```
+    set runtimepath^=~/.vim runtimepath+=~/.vim/after
+    let &packpath=&runtimepath
+    source ~/.vimrc
+    ```
 
 ## .tmux.conf
 
