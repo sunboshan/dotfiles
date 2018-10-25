@@ -10,3 +10,8 @@ Repo for dotfiles.
 ## .tmux.conf
 
 1. ``ln -s `pwd`/tmux.conf ~/.tmux.conf``
+
+## .zshrc
+
+1. ``ln -s `pwd`/zshrc ~/.zshrc``
+1. `touch ~/.zshrc_custom`
