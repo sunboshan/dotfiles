@@ -77,6 +77,9 @@ nnoremap <leader>Q :qa!<CR>
 " Quick change raw JSON to Elixir map
 nnoremap <leader>j :%s/null/nil/g<CR>:%s/{/%{/g<CR>:%s/:/: /g<CR>
 
+" Open NERDTree with current open file
+nnoremap <leader>t :NERDTree %<CR>
+
 " better navigation in command mode
 cnoremap <C-p> <Up>
 cnoremap <C-n> <Down>
