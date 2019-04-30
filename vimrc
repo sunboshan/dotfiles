@@ -80,6 +80,11 @@ nnoremap <leader>j :%s/null/nil/g<CR>:%s/{/%{/g<CR>:%s/:/: /g<CR>
 " Open NERDTree with current open file
 nnoremap <leader>t :NERDTree %<CR>
 
+" quick paste from register
+nnoremap <leader>1 "agP
+nnoremap <leader>2 "bgP
+nnoremap <leader>3 "cgP
+
 " better navigation in command mode
 cnoremap <C-p> <Up>
 cnoremap <C-n> <Down>
