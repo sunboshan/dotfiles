@@ -25,3 +25,32 @@ Repo for dotfiles.
 1. install [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 1. ``ln -s `pwd`/zshrc ~/.zshrc``
 1. `touch ~/.zshrc_custom`
+
+## iTerm2 theme
+
+1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...
+1. select `materialdark.itermcolors`
+1. select `materialdark`
+
+## softwares
+
+1. [brew](https://brew.sh)
+1. `brew cask install google-chrome`
+1. `brew cask install iterm2`
+1. `brew install tmux`
+1. `brew install nvim`
+1. `brew install dashlane`
+
+## misc
+
+- show hidden files
+```
+$ defaults write com.apple.Finder AppleShowAllFiles true`
+$ killall Finder
+```
+- key repeat faster
+```
+$ defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
+$ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
+# then log out
+```
