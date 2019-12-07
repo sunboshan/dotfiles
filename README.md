@@ -45,12 +45,12 @@ Repo for dotfiles.
 
 - show hidden files
 ```
-$ defaults write com.apple.Finder AppleShowAllFiles true`
+$ defaults write com.apple.Finder AppleShowAllFiles true
 $ killall Finder
 ```
 - key repeat faster
 ```
 $ defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
 $ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
-# then log out
+# then log out and log in
 ```
