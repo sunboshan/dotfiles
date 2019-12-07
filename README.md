@@ -40,6 +40,7 @@ Repo for dotfiles.
 1. `brew install tmux`
 1. `brew install nvim`
 1. `brew install dashlane`
+1. `brew install divvy`
 
 ## misc
 
@@ -54,3 +55,6 @@ $ defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
 $ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 # then log out and log in
 ```
+
+- three finger drag, System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
+
