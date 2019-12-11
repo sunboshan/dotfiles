@@ -34,7 +34,10 @@ Repo for dotfiles.
 
 ## softwares
 
-1. [brew](https://brew.sh), `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+1. [brew](https://brew.sh)
+  ```
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  ```
 1. `brew cask install iterm2`
 1. `brew install tmux`
 1. `brew install nvim`
