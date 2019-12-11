@@ -34,13 +34,17 @@ Repo for dotfiles.
 
 ## softwares
 
-1. [brew](https://brew.sh)
-1. `brew cask install google-chrome`
+1. [brew](https://brew.sh), `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 1. `brew cask install iterm2`
 1. `brew install tmux`
 1. `brew install nvim`
-1. `brew install dashlane`
-1. `brew install divvy`
+1. `brew cask install divvy`
+1. `brew cask install dashlane`
+1. `brew cask install google-chrome`
+1. `brew install ag`
+1. `brew install tig`
+1. `brew install multitail`
+1. `brew install asdf`
 
 ## misc
 
