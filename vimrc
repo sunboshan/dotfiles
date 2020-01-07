@@ -44,10 +44,9 @@ syntax enable
 set background=light
 colorscheme PaperColor
 
-" erlang indentation
-autocmd FileType erlang set shiftwidth=4
-autocmd FileType erlang set tabstop=8
-autocmd FileType erlang set expandtab
+" indentation
+autocmd FileType erlang set shiftwidth=4 tabstop=8 expandtab
+autocmd FileType html set shiftwidth=2 tabstop=2 expandtab
 
 " clear highlight search
 nnoremap <BS> :nohlsearch<CR>
