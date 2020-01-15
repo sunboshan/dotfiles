@@ -41,9 +41,10 @@ Repo for dotfiles.
 1. `brew cask install iterm2`
 1. `brew install tmux`
 1. `brew install nvim`
-1. `brew cask install divvy`
-1. `brew cask install dashlane`
 1. `brew cask install google-chrome`
+1. `brew cask install dashlane`
+1. `brew cask install divvy`
+1. `brew cask install sogouinput`
 1. `brew install ag`
 1. `brew install tig`
 1. `brew install multitail`
