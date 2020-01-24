@@ -49,6 +49,7 @@ Repo for dotfiles.
 1. `brew install tig`
 1. `brew install multitail`
 1. `brew install asdf`
+1. `brew install cloc`
 
 ## misc
 
