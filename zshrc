@@ -17,6 +17,7 @@ alias pe="printenv"
 alias ez="vim $HOME/.zshrc_custom"
 alias sz="source $HOME/.zshrc_custom"
 alias mz="man zshbuiltins"
+alias tt="tig"
 alias em="erl -man"
 alias i="iex -S mix"
 
