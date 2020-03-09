@@ -1,0 +1,40 @@
+# ---------
+# global
+# ---------
+
+set line-graphics = utf-8
+
+# ---------
+# main-view
+# ---------
+
+set main-view-id-display = yes
+set main-view-date-display = relative-compact
+set main-view-author-display = abbreviated
+
+# ---------
+# binding
+# ---------
+
+bind generic o enter
+bind generic g move-first-line
+bind generic G move-last-line
+bind generic ; prompt
+
+bind main G move-last-line
+bind main P ?git push origin %(branch)
+bind main B !git checkout -b "%(prompt Enter the new branch name: )" %(commit)
+bind main S !git rebase -i %(commit)
+bind main U ?git pull --rebase origin %(branch)
+
+bind status + ?git commit -v --amend
+bind status - ?git clean -id
+bind status 1 ?git commit -m 1
+bind status A ?git stash push
+bind status Z ?git stash --all
+
+bind refs c ?git checkout %(branch)
+bind refs d ?git branch -d %(branch)
+bind refs D ?git branch -D %(branch)
+
+bind stash D ?git stash drop %(stash)

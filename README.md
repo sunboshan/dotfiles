@@ -26,6 +26,10 @@ Repo for dotfiles.
 1. ``ln -s `pwd`/zshrc ~/.zshrc``
 1. `touch ~/.zshrc_custom`
 
+## .tigrc
+
+1. ``ln -s `pwd`/tigrc ~/.tigrc``
+
 ## iTerm2 theme
 
 1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...
