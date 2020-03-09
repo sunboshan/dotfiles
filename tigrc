@@ -33,6 +33,7 @@ bind status - ?git clean -id
 bind status 1 ?git commit -m 1
 bind status A ?git stash push
 bind status Z ?git stash --all
+bind status C !git commit -v
 
 bind refs c ?git checkout %(branch)
 bind refs d ?git branch -d %(branch)
