@@ -27,6 +27,7 @@ bind main B !git checkout -b "%(prompt Enter the new branch name: )" %(commit)
 bind main S !git rebase -i %(commit)
 bind main U ?git pull --rebase origin %(branch)
 bind main L ?git pull origin %(branch)
+bind main T !git branch "%(prompt Enter the new branch name: )" %(commit)
 
 bind status + ?git commit -v --amend
 bind status - ?git clean -id
