@@ -48,6 +48,7 @@ colorscheme PaperColor
 autocmd FileType erlang set shiftwidth=4 tabstop=8 expandtab
 autocmd FileType html set shiftwidth=2 tabstop=2 expandtab
 autocmd FileType javascriptreact set shiftwidth=2 tabstop=2 expandtab
+autocmd FileType javascript set shiftwidth=2 tabstop=2 expandtab
 
 " clear highlight search
 nnoremap <BS> :nohlsearch<CR>
