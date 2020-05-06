@@ -38,27 +38,27 @@ Repo for dotfiles.
 
 ## softwares
 
-1. [brew](https://brew.sh)
+- [brew](https://brew.sh)
   ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   ```
-1. `brew cask install iterm2`
-1. `brew install tmux`
-1. `brew install nvim`
-1. `brew cask install google-chrome`
-1. `brew cask install dashlane`
-1. `brew cask install divvy`
-1. `brew cask install sogouinput`
-1. `brew install ag`
-1. `brew install tig`
-1. `brew install multitail`
-1. `brew install asdf`
-1. `brew install cloc`
+- `brew cask install iterm2`
+- `brew install tmux`
+- `brew install nvim`
+- `brew cask install google-chrome`
+- `brew cask install dashlane`
+- `brew cask install divvy`
+- `brew cask install sogouinput`
+- `brew install ag`
+- `brew install tig`
+- `brew install multitail`
+- `brew install asdf`
+- `brew install cloc`
 
 ## chrome extensions
 
-1. [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
-1. [Keyboard Shortcuts to Reorder Tabs](https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-reo/moigagbiaanpboaflikhdhgdfiifdodd)
+- [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+- [Keyboard Shortcuts to Reorder Tabs](https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-reo/moigagbiaanpboaflikhdhgdfiifdodd)
 
 ## misc
 
