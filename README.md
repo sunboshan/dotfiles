@@ -74,5 +74,7 @@ $ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 # then log out and log in
 ```
 
-- three finger drag, System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
-
+- three finger drag
+```
+System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
+```
