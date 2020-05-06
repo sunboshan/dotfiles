@@ -55,6 +55,11 @@ Repo for dotfiles.
 1. `brew install asdf`
 1. `brew install cloc`
 
+## chrome extensions
+
+1. [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+1. [Keyboard Shortcuts to Reorder Tabs](https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-reo/moigagbiaanpboaflikhdhgdfiifdodd)
+
 ## misc
 
 - show hidden files
