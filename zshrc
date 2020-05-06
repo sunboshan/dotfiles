@@ -25,5 +25,18 @@ alias ts="tig status"
 alias em="erl -man"
 alias i="iex -S mix"
 
+alias aiam="open https://console.aws.amazon.com/iam"
+alias avpc="open https://console.aws.amazon.com/vpc"
+alias aec2="open https://console.aws.amazon.com/ec2"
+alias acfn="open https://console.aws.amazon.com/cloudformation"
+alias alambda="open https://console.aws.amazon.com/lambda"
+alias aecs="open https://console.aws.amazon.com/ecs"
+alias acw="open https://console.aws.amazon.com/cloudwatch"
+alias as3="open https://console.aws.amazon.com/s3"
+alias addb="open https://console.aws.amazon.com/dynamodb"
+alias acode="open https://console.aws.amazon.com/codesuite"
+alias asns="open https://console.aws.amazon.com/sns/v3"
+alias asqs="open https://console.aws.amazon.com/sqs"
+
 # source custom settings
 source $HOME/.zshrc_custom
