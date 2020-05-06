@@ -6,6 +6,10 @@ plugins=(git zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 setopt no_share_history
 
+# system env
+export ERL_AFLAGS="-kernel shell_history enabled"
+export GIT_EDITOR="nvim"
+
 # aliases
 alias c="cd"
 alias e="exit"
@@ -14,7 +18,7 @@ alias t="tmux"
 alias v="nvim"
 alias w="which -as"
 alias pe="printenv"
-alias ez="vim $HOME/.zshrc_custom"
+alias ez="nvim $HOME/.zshrc_custom"
 alias sz="source $HOME/.zshrc_custom"
 alias mz="man zshbuiltins"
 alias ts="tig status"
