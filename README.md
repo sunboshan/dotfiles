@@ -45,6 +45,7 @@ Repo for dotfiles.
 - `brew cask install iterm2`
 - `brew install tmux`
 - `brew install nvim`
+- `brew install gotty`
 - `brew cask install google-chrome`
 - `brew cask install dashlane`
 - `brew cask install divvy`
