@@ -2,6 +2,8 @@
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="spaceship"
 DISABLE_AUTO_UPDATE="true"
+SPACESHIP_TIME_SHOW=true
+SPACESHIP_ELIXIR_SHOW=false
 plugins=(git zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 setopt no_share_history
