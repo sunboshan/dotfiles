@@ -54,6 +54,7 @@ Repo for dotfiles.
 - `brew install multitail`
 - `brew install asdf`
 - `brew install cloc`
+- `brew install bat`
 
 ## chrome extensions
 
