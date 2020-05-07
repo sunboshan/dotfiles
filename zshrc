@@ -11,6 +11,7 @@ export ERL_AFLAGS="-kernel shell_history enabled"
 export GIT_EDITOR="nvim"
 
 # aliases
+alias b="bat"
 alias c="cd"
 alias e="exit"
 alias m="man"
