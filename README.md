@@ -9,6 +9,8 @@ Repo for dotfiles.
 1. ``ln -s `pwd`/zshrc ~/.zshrc``
 1. `touch ~/.zshrc_custom`
 
+Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Options.md).
+
 ## .tmux.conf
 
 1. ``ln -s `pwd`/tmux.conf ~/.tmux.conf``
