@@ -1,6 +1,18 @@
 # dotfiles
 Repo for dotfiles.
 
+## .zshrc
+
+1. install [oh-my-zsh](https://ohmyz.sh/)
+1. install [zsh-spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt#oh-my-zsh)
+1. install [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+1. ``ln -s `pwd`/zshrc ~/.zshrc``
+1. `touch ~/.zshrc_custom`
+
+## .tmux.conf
+
+1. ``ln -s `pwd`/tmux.conf ~/.tmux.conf``
+
 ## .vimrc
 
 1. `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim` to install [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -14,25 +26,13 @@ Repo for dotfiles.
     source ~/.vimrc
     ```
 
-## .tmux.conf
+## .gotty
 
-1. ``ln -s `pwd`/tmux.conf ~/.tmux.conf``
-
-## .zshrc
-
-1. install [oh-my-zsh](https://ohmyz.sh/)
-1. install [zsh-spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt#oh-my-zsh)
-1. install [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
-1. ``ln -s `pwd`/zshrc ~/.zshrc``
-1. `touch ~/.zshrc_custom`
+1. ``ln -s `pwd`/gotty ~/.gotty``
 
 ## .tigrc
 
 1. ``ln -s `pwd`/tigrc ~/.tigrc``
-
-## .gotty
-
-1. ``ln -s `pwd`/gotty ~/.gotty``
 
 ## iTerm2 theme
 
