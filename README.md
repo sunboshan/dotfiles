@@ -35,6 +35,8 @@ Repo for dotfiles.
 1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...
 1. select `materialdark.itermcolors`
 1. select `materialdark`
+1. install [Meslo Slashed](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) font
+1. iTrm2 Preferences -> Profiles -> Text -> Font -> select `Meslo LG M for Powerline`
 
 ## softwares
 
