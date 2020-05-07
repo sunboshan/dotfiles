@@ -30,6 +30,10 @@ Repo for dotfiles.
 
 1. ``ln -s `pwd`/tigrc ~/.tigrc``
 
+## .gotty
+
+1. ``ln -s `pwd`/gotty ~/.gotty``
+
 ## iTerm2 theme
 
 1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...

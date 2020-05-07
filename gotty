@@ -1,0 +1,7 @@
+preferences {
+    foreground_color = "rgb(234, 234, 233)"
+    background_color = "rgb(45, 45, 44)"
+    cursor_color = "rgba(0, 188, 212, 0.5)"
+    font_family = "Menlo, 'DejaVu Sans Mono', 'Lucida Console', monospace"
+    user_css = "https://cdn.jsdelivr.net/gh/wernight/powerline-web-fonts@ba4426cb0c0b05eb6cb342c7719776a41e1f2114/PowerlineFonts.css"
+}
