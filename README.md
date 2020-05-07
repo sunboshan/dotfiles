@@ -50,11 +50,12 @@ Repo for dotfiles.
 - `brew cask install divvy`
 - `brew cask install sogouinput`
 - `brew install ag`
+- `brew install fd`
 - `brew install tig`
-- `brew install multitail`
-- `brew install asdf`
-- `brew install cloc`
 - `brew install bat`
+- `brew install cloc`
+- `brew install asdf`
+- `brew install multitail`
 
 ## chrome extensions
 
