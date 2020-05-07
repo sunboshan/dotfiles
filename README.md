@@ -1,6 +1,8 @@
 # dotfiles
 Repo for dotfiles.
 
+![](https://user-images.githubusercontent.com/4976854/81347627-65b0a100-9071-11ea-91e7-3a3a8381c043.gif)
+
 ## .zshrc
 
 1. install [oh-my-zsh](https://ohmyz.sh/)
