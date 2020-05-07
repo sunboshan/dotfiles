@@ -78,3 +78,12 @@ $ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 ```
 System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
 ```
+
+- app shortcuts
+```
+System Preferences -> Keyboard -> Shortcuts -> App Shortcuts -> Google Chrome.app
+
+- Pin Tab               shift + cmd + p
+- Select Next Tab       cmd + k
+- Select Previous Tab   cmd + j
+```
