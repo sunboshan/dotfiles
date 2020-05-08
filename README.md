@@ -106,3 +106,7 @@ System Preferences -> Keyboard -> Shortcuts -> App Shortcuts -> Google Chrome.ap
 - Select Next Tab       cmd + k
 - Select Previous Tab   cmd + j
 ```
+
+## setup guide
+
+Refer to [guide](guide.md).
