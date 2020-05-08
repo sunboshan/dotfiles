@@ -38,7 +38,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 1. ``ln -s `pwd`/tigrc ~/.tigrc``
 
-## iTerm2 theme
+## iTerm2 theme (deprecated)
 
 1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...
 1. select `materialdark.itermcolors`
@@ -52,7 +52,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
   ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   ```
-- `brew cask install iterm2`
+- `brew cask install iterm2` (deprecated)
 - `brew install tmux`
 - `brew install nvim`
 - `brew install yudai/gotty/gotty`
