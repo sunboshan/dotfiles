@@ -70,9 +70,9 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 ## chrome extensions
 
-- [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+- [Vimium C - All by Keyboard](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
 
-Restore the vimium options from [vimium-options.json](vimium-options.json).
+Restore the vimium-c options from [vimium-c-options.json](vimium-c-options.json).
 
 ## misc
 

@@ -1,0 +1,38 @@
+{
+	"name": "Vimium C",
+	"@time": "5/8/2020, 12:16:02 PM",
+	"time": 1588965362670,
+	"environment": {
+		"extension": "1.83.0",
+		"platform": "mac",
+		"chrome": 81
+	},
+	"exclusionRules": [
+		{
+			"pattern": ":https://mail.google.com/",
+			"passKeys": ""
+		},
+		{
+			"pattern": "^https?://localhost:8080/",
+			"passKeys": ""
+		}
+	],
+	"keyMappings": [
+		"shortcut userCustomized1 command=\"visitPreviousTab\"",
+		"shortcut userCustomized2 command=\"Vomnibar.activateInNewTab\"",
+		"map l visitPreviousTab",
+		"map h showHelp",
+		"map , previousTab",
+		"map . nextTab",
+		"map F LinkHints.activateModeWithQueue",
+		"map < moveTabLeft",
+		"map > moveTabRight",
+		"map e Vomnibar.activateEditUrlInNewTab",
+		"map b Vomnibar.activateBookmarksInNewTab",
+		"map t Vomnibar.activateTabSelection",
+		"map o Vomnibar.activateInNewTab",
+		"map w createTab",
+		""
+	],
+	"searchUrl": "https://duckduckgo.com/?q=$s DuckDuckGo"
+}
