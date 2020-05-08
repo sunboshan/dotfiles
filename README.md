@@ -74,8 +74,8 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 1. Restore the vimium-c options from [vimium-c-options.json](vimium-c-options.json).
 1. Create global shortcut in `chrome://extensions/shortcuts`
-  - Custome shortcut 1, ctrl + k
-  - Custome shortcut 2, crtl + o
+    - Custome shortcut 1, ctrl + k
+    - Custome shortcut 2, crtl + o
 
 ## misc
 
