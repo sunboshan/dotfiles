@@ -72,6 +72,8 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 - [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
+Restore the vimium options from [vimium-options.json](vimium-options.json).
+
 ## misc
 
 - show hidden files
