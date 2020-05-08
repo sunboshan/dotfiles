@@ -71,7 +71,6 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 ## chrome extensions
 
 - [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
-- [Keyboard Shortcuts to Reorder Tabs](https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-reo/moigagbiaanpboaflikhdhgdfiifdodd) (use modified version [reorder](https://github.com/sunboshan/reorder))
 
 ## misc
 
