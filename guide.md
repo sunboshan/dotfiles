@@ -26,6 +26,7 @@ Here are the rules to follow:
 1. When in other tabs
     1. Use `g0` to go to the terminal tab
     1. Use `,.` to navigate through tabs
+    1. Use `l` to go to previous visited tab (except for terminal tab)
     1. Use `o` to go to a new tab
     1. Use `e` to edit the address bar
     1. Use `t` to go to an open tab
