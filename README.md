@@ -98,6 +98,11 @@ $ defaults write -g KeyRepeat -int 1            # normal minimum is 2 (30 ms)
 System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
 ```
 
+- remapping caps lock to ctrl
+```
+System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
+```
+
 - app shortcuts
 ```
 System Preferences -> Keyboard -> Shortcuts -> App Shortcuts -> Google Chrome.app
