@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/8/2020, 12:16:02 PM",
-	"time": 1588965362670,
+	"@time": "5/8/2020, 9:46:28 PM",
+	"time": 1588999588268,
 	"environment": {
 		"extension": "1.83.0",
 		"platform": "mac",
@@ -31,8 +31,10 @@
 		"map b Vomnibar.activateBookmarksInNewTab",
 		"map t Vomnibar.activateTabSelection",
 		"map o Vomnibar.activateInNewTab",
-		"map w createTab",
+		"map w LinkHints.activateModeToHover",
+		"map W LinkHints.unhoverLast",
 		""
 	],
-	"searchUrl": "https://duckduckgo.com/?q=$s DuckDuckGo"
+	"searchUrl": "https://duckduckgo.com/?q=$s DuckDuckGo",
+	"showAdvancedCommands": true
 }
