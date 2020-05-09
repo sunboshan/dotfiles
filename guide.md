@@ -30,4 +30,5 @@ Here are the rules to follow:
     1. Use `o` to go to a new tab
     1. Use `e` to edit the address bar
     1. Use `t` to go to an open tab
+    1. Use `t tab` to go to the second most visited tab
     1. Use `b` to go to a bookmark link
