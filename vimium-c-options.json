@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/9/2020, 2:22:48 PM",
-	"time": 1589059368966,
+	"@time": "5/9/2020, 2:33:33 PM",
+	"time": 1589060013351,
 	"environment": {
 		"extension": "1.83.0",
 		"platform": "mac",
@@ -10,7 +10,7 @@
 	"exclusionRules": [
 		{
 			"pattern": ":https://mail.google.com/",
-			"passKeys": ""
+			"passKeys": "^ , . f h t "
 		},
 		{
 			"pattern": "^https?://localhost:8080/",
