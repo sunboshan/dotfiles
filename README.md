@@ -67,6 +67,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 - `brew install multitail`
 - `brew install autojump`
 - `brew install ranger`
+- `brew install fzf`
 
 ## chrome extensions
 
