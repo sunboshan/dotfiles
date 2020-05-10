@@ -67,6 +67,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 - `brew install cloc`
 - `brew install asdf`
 - `brew install multitail`
+- `brew install autojump`
 
 ## chrome extensions
 
