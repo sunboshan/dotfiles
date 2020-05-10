@@ -1,6 +1,4 @@
 # dotfiles
-Repo for dotfiles. The gif demonstrates `zsh`, `tmux`, `vim`, `tig` and `gotty`.
-
 ![](https://user-images.githubusercontent.com/4976854/81347627-65b0a100-9071-11ea-91e7-3a3a8381c043.gif)
 
 ## .zshrc
@@ -68,6 +66,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 - `brew install asdf`
 - `brew install multitail`
 - `brew install autojump`
+- `brew install ranger`
 
 ## chrome extensions
 
