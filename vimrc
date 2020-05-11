@@ -147,3 +147,6 @@ xmap ga <Plug>(EasyAlign)
 let g:EasyMotion_do_mapping = 0
 let g:EasyMotion_smartcase  = 1
 nmap <Space> <Plug>(easymotion-overwin-f)
+
+" plugin setting: fzf
+noremap <C-j> :FZF<CR>
