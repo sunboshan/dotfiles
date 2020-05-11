@@ -44,5 +44,8 @@ alias asqs="open https://console.aws.amazon.com/sqs"
 # source autojump
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
 
+# source fzf
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
 # source custom settings
 source $HOME/.zshrc_custom
