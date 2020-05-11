@@ -18,6 +18,8 @@ Plugin 'easymotion/vim-easymotion'      " Motion on speed
 Plugin 'tpope/vim-commentary'           " Adding comment
 Plugin 'tpope/vim-surround'             " Surround
 Plugin 'junegunn/vim-easy-align'        " Alignment helper
+Plugin 'junegunn/fzf'                   " Fuzzy Find
+Plugin 'junegunn/fzf.vim'               " Fuzzy Find for vim
 
 call vundle#end()            " required
 filetype plugin indent on    " required
