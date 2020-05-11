@@ -4,6 +4,8 @@ ZSH_THEME="spaceship"
 DISABLE_AUTO_UPDATE="true"
 SPACESHIP_TIME_SHOW=true
 SPACESHIP_ELIXIR_SHOW=false
+SPACESHIP_PACKAGE_SHOW=false
+SPACESHIP_NODE_SHOW=false
 plugins=(git zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 setopt no_share_history
