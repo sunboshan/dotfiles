@@ -88,6 +88,9 @@ nnoremap <leader>1 "agP
 nnoremap <leader>2 "bgP
 nnoremap <leader>3 "cgP
 
+" copy current [f]ile name
+nnoremap <leader>f :let @*=@%<CR>
+
 " better navigation in command mode
 cnoremap <C-p> <Up>
 cnoremap <C-n> <Down>
