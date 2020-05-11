@@ -153,3 +153,4 @@ nmap <Space> <Plug>(easymotion-overwin-f)
 
 " plugin setting: fzf
 noremap <C-j> :FZF<CR>
+noremap <C-k> :Ag 
