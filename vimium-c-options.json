@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/12/2020, 7:17:03 AM",
-	"time": 1589293023586,
+	"@time": "5/12/2020, 8:45:27 AM",
+	"time": 1589298327427,
 	"environment": {
 		"extension": "1.83.1",
 		"platform": "mac",
@@ -21,6 +21,7 @@
 	"keyMappings": [
 		"shortcut userCustomized1 command=\"visitPreviousTab\"",
 		"shortcut userCustomized2 command=\"Vomnibar.activateInNewTab\"",
+		"shortcut userCustomized3 command=\"Vomnibar.activateTabSelection\"",
 		"map l visitPreviousTab",
 		"map h showHelp",
 		"map , previousTab",
