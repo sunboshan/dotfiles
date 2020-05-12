@@ -76,9 +76,9 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 1. Restore the vimium-c options from [vimium-c-options.json](vimium-c-options.json).
 1. Create global shortcut in `chrome://extensions/shortcuts`
-    - Custome shortcut 1, `ctrl + 0`
-    - Custome shortcut 2, `crtl + o`
-    - Custome shortcut 3, `crtl + 9` (this is set in Shortcut Forwarding Tool section)
+    - Custom shortcut 1, `ctrl + 0`
+    - Custom shortcut 2, `crtl + o`
+    - Custom shortcut 3, `crtl + 9` (this is set in Shortcut Forwarding Tool section)
 
 After this, you are able to switch tabs between gotty terminal and other tabs!!!
 
