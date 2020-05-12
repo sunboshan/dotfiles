@@ -23,6 +23,7 @@ Here are the rules to follow:
 1. When in terminal tab
     1. `ctrl + 0` to go to previous visited tab
     1. `ctrl + o` to go to a new tab
+    1. `ctrl + 9` to go to an existing tab
 1. When in other tabs
     1. Use `g0` to go to the terminal tab
     1. Use `,.` to navigate through tabs
