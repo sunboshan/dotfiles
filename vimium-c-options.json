@@ -1,9 +1,9 @@
 {
 	"name": "Vimium C",
-	"@time": "5/9/2020, 2:33:33 PM",
-	"time": 1589060013351,
+	"@time": "5/11/2020, 10:42:15 PM",
+	"time": 1589262135910,
 	"environment": {
-		"extension": "1.83.0",
+		"extension": "1.83.1",
 		"platform": "mac",
 		"chrome": 81
 	},
@@ -17,6 +17,7 @@
 			"passKeys": ""
 		}
 	],
+	"grabBackFocus": true,
 	"keyMappings": [
 		"shortcut userCustomized1 command=\"visitPreviousTab\"",
 		"shortcut userCustomized2 command=\"Vomnibar.activateInNewTab\"",
@@ -65,5 +66,6 @@
 		""
 	],
 	"searchUrl": "https://duckduckgo.com/?q=$s DuckDuckGo",
-	"showAdvancedCommands": true
+	"showAdvancedCommands": true,
+	"showAdvancedOptions": true
 }
