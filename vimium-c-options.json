@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/11/2020, 10:42:15 PM",
-	"time": 1589262135910,
+	"@time": "5/12/2020, 7:17:03 AM",
+	"time": 1589293023586,
 	"environment": {
 		"extension": "1.83.1",
 		"platform": "mac",
@@ -34,7 +34,8 @@
 		"map o Vomnibar.activateInNewTab",
 		"map w LinkHints.activateModeToHover",
 		"map W LinkHints.unhoverLast",
-		"map yF LinkHints.activateModeToCopyLinkText",
+		"map yf LinkHints.activateModeToCopyLinkText",
+		"map yF LinkHints.activateModeToCopyLinkUrl",
 		"map zh scrollLeft",
 		"map zl scrollRight",
 		"map zz closeDownloadBar",
