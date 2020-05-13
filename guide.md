@@ -37,3 +37,18 @@ Here are the rules to follow:
     1. Use `zz` to close the download bar
     1. Use `yf` to yank the link
     1. Use `yF` to yank the link text
+
+## Set up Chrome devtools
+
+How to switch focus between web page and chrome devtools?
+
+1. In Chrome settings -> Manage search engines -> Add
+    - name: `Back to page`
+    - keyword: `a`
+    - url: `javascript:`
+
+- `F12` to open chrome devtools.
+- switch to web page: `ctrl+l` -> `a` -> enter
+- switch to chrome devtools: `cmd+shift+c` twice
+
+Note, this can be done in full screen mode, but chrome must has the search bar visible.
