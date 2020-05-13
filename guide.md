@@ -48,7 +48,7 @@ How to switch focus between web page and chrome devtools?
     - url: `javascript:`
 
 - `F12` to open chrome devtools.
-- switch to web page: `ctrl+l` -> `a` -> enter
-- switch to chrome devtools: `cmd+shift+c` twice
+- switch to web page: `ctrl + l` -> `a` -> enter
+- switch to chrome devtools: `cmd + shift + c` twice
 
 Note, this can be done in full screen mode, but chrome must has the search bar visible.
