@@ -35,8 +35,8 @@ Here are the rules to follow:
     1. Use `b` to go to a bookmark link
     1. Use `ctrl+[` to unfocus from the input textbox
     1. Use `zz` to close the download bar
-    1. Use `yf` to yank the link
-    1. Use `yF` to yank the link text
+    1. Use `yf` to yank the link text
+    1. Use `yF` to yank the link url
 
 ## Set up Chrome devtools
 
