@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/12/2020, 11:31:20 PM",
-	"time": 1589351480551,
+	"@time": "5/13/2020, 7:27:17 AM",
+	"time": 1589380037026,
 	"environment": {
 		"extension": "1.83.1",
 		"platform": "mac",
@@ -40,6 +40,7 @@
 		"map zh scrollLeft",
 		"map zl scrollRight",
 		"map zz closeDownloadBar",
+		"map gm toggleMuteTab",
 		""
 	],
 	"searchEngines": [
