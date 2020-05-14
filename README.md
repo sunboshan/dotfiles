@@ -14,6 +14,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 ## .tmux.conf
 
 1. ``ln -s `pwd`/tmux.conf ~/.tmux.conf``
+1. install [tpm](https://github.com/tmux-plugins/tpm), `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
 ## .vimrc
 
