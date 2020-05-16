@@ -91,6 +91,9 @@ nnoremap <leader>3 "cgP
 " copy current [f]ile name
 nnoremap <leader>f :let @*=@%<CR>
 
+" [o]pen current file
+nnoremap <leader>o :!open %<CR>
+
 " better navigation in command mode
 cnoremap <C-p> <Up>
 cnoremap <C-n> <Down>
