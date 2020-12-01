@@ -22,6 +22,17 @@
     - Mission Control:     F3
     - Application windows: F4
     ```
+- Trackpad setup
+    ```
+    System Preferences -> Trackpad
+
+    - Point & Click
+        [x] Tap to click
+        - Tracking speed: Fastest
+    - Scroll & Zoom
+        [ ] Scroll direction: Natural
+        - Tracking speed: Fastest
+    ```
 - show hidden files
     ```
     defaults write com.apple.Finder AppleShowAllFiles true
