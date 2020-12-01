@@ -3,6 +3,25 @@
 
 ## Mac OSX
 
+- Dock setup
+    ```
+    System Preferences -> Dock
+
+    - Size: smallest
+    - Position on screen: Left
+    - Minimize window using: Scale effect
+    [x] Minimize windows into application icon
+    [x] Automatically hide and show the Dock
+    [ ] Show recently applications in Dock
+    ```
+- Mission Control setup
+    ```
+    System Preferences -> Mission Control
+
+    [x] Group windows by application
+    - Mission Control:     F3
+    - Application windows: F4
+    ```
 - show hidden files
     ```
     defaults write com.apple.Finder AppleShowAllFiles true
@@ -25,25 +44,6 @@
 - remapping caps lock to ctrl (need to do it for every keyboard)
     ```
     System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
-    ```
-- Dock setup
-    ```
-    System Preferences -> Dock
-
-    - Size: smallest
-    - Position on screen: Left
-    - Minimize window using: Scale effect
-    [x] Minimize windows into application icon
-    [x] Automatically hide and show the Dock
-    [ ] Show recently applications in Dock
-    ```
-- Mission Control setup
-    ```
-    System Preferences -> Mission Control
-
-    [x] Group windows by application
-    - Mission Control:     F3
-    - Application windows: F4
     ```
 - app shortcuts
    ```
