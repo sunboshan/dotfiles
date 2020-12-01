@@ -158,6 +158,9 @@ After this, you are able to switch tabs between gotty terminal and other tabs!!!
 ## .zshrc
 
 1. install [oh-my-zsh](https://ohmyz.sh/)
+  ```
+  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  ```
 1. install [zsh-spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt#oh-my-zsh)
 1. install [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 1. ``ln -s `pwd`/zshrc ~/.zshrc``
