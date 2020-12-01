@@ -94,39 +94,36 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 1. ``ln -s `pwd`/tigrc ~/.tigrc``
 
-
-## misc
+## Mac OSX
 
 - show hidden files
-```
-$ defaults write com.apple.Finder AppleShowAllFiles true
-$ killall Finder
-```
+    ```
+    defaults write com.apple.Finder AppleShowAllFiles true
+    killall Finder
+    ```
 - key repeat faster
-```
-$ defaults write -g InitialKeyRepeat -int 10    # normal minimum is 15 (225 ms)
-$ defaults write -g KeyRepeat -int 1            # normal minimum is 2 (30 ms)
-                                                # then log out and log in
-```
-
+    ```
+    defaults write -g InitialKeyRepeat -int 10
+    defaults write -g KeyRepeat -int 1
+    # then log out and log in
+    ```
 - three finger drag
-```
-System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
-```
-
-- remapping caps lock to ctrl
-```
-System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
-```
-
+    ```
+    System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
+    ```
+- remapping caps lock to ctrl (need to do it for every keyboard)
+    ```
+    System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
+    ```
 - app shortcuts
-```
-System Preferences -> Keyboard -> Shortcuts -> App Shortcuts -> Google Chrome.app
+   ```
+   System Preferences -> Keyboard -> Shortcuts -> App Shortcuts
 
-- Pin Tab               shift + cmd + p
-- Select Next Tab       cmd + k
-- Select Previous Tab   cmd + j
-```
+   - Google Chrome.app
+       - Pin Tab               shift + cmd + p
+       - Select Next Tab       cmd + k
+       - Select Previous Tab   cmd + j
+   ```
 
 ## setup guide
 
