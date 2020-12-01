@@ -26,6 +26,17 @@
     ```
     System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
     ```
+- Dock setup
+    ```
+    System Preferences -> Dock
+
+    - Size: smallest
+    - Position on screen: Left
+    - Minimize window using: Scale effect
+    [x] Minimize windows into application icon
+    [x] Automatically hide and show the Dock
+    [ ] Show recently applications in Dock
+    ```
 - app shortcuts
    ```
    System Preferences -> Keyboard -> Shortcuts -> App Shortcuts
