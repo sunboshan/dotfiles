@@ -80,14 +80,6 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 1. ``ln -s `pwd`/tigrc ~/.tigrc``
 
-## iTerm2 theme (deprecated)
-
-1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...
-1. select `materialdark.itermcolors`
-1. select `materialdark`
-1. install [Meslo Slashed](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) font
-1. iTrm2 Preferences -> Profiles -> Text -> Font -> select `Meslo LG M for Powerline`
-
 ## chrome extensions
 
 - [Vimium C - All by Keyboard](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
@@ -137,3 +129,11 @@ System Preferences -> Keyboard -> Shortcuts -> App Shortcuts -> Google Chrome.ap
 ## setup guide
 
 Refer to [guide](guide.md).
+
+## iTerm2 theme (deprecated)
+
+1. In iTerm2 Preferences -> Profiles -> Colors -> Colors Presets... -> Import...
+1. select `materialdark.itermcolors`
+1. select `materialdark`
+1. install [Meslo Slashed](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) font
+1. iTrm2 Preferences -> Profiles -> Text -> Font -> select `Meslo LG M for Powerline`
