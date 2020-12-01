@@ -22,6 +22,9 @@
       - S: |*******|
   ```
 - `brew cask install sogouinput`
+  ```
+  Need to run the installer to install
+  ```
 - `brew install tmux`
 - `brew install nvim`
 - `brew install yudai/gotty/gotty`
