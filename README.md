@@ -20,7 +20,7 @@
     ```
 - scroll zoom in
     ```
-    System Preferences -> Accessibility -> Zoom -> Use scroll gusture... -> Control
+    System Preferences -> Accessibility -> Zoom -> Use scroll gesture... -> Control
     ```
 - remapping caps lock to ctrl (need to do it for every keyboard)
     ```
