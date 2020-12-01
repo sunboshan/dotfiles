@@ -30,6 +30,7 @@ alias mz="man zshbuiltins"
 alias ts="tig status"
 alias em="erl -man"
 alias i="iex -S mix"
+alias got="gotty -w tmux a -t0"
 
 alias aiam="open https://console.aws.amazon.com/iam"
 alias avpc="open https://console.aws.amazon.com/vpc"
