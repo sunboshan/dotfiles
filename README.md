@@ -13,6 +13,7 @@
   ```
   - General
       - Global shortcut: cmd + shift + d
+      - License in Dashlane
   - Appearance
       - Columns: 7
   - Shortcuts
