@@ -128,6 +128,9 @@
           [x] Keep Plain Text
           [x] Keep Images
       - Viewer Hotkey: cmd + shift + c
+  - Appearance
+      - Options
+          - Show Alfred on: active screen
   - Powerpack
       - License in Dashlane
   ```
