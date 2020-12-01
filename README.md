@@ -29,6 +29,13 @@
     - Zoom -> Use scroll gesture... -> Control
     - Pointer Control -> Trackpad Options... -> Enable dragging -> three finger drag
     ```
+- Sound setup
+    ```
+    System Preferences -> Sound
+
+    [x] Play feedback when volume is changed
+    [x] Show volume in menu bar
+    ```
 - Trackpad setup
     ```
     System Preferences -> Trackpad
