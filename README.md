@@ -22,6 +22,13 @@
     - Mission Control:     F3
     - Application windows: F4
     ```
+- Accessibility setup
+    ```
+    System Preferences -> Accessibility
+
+    - Zoom -> Use scroll gesture... -> Control
+    - Pointer Control -> Trackpad Options... -> Enable dragging -> three finger drag
+    ```
 - Trackpad setup
     ```
     System Preferences -> Trackpad
@@ -33,12 +40,8 @@
         [ ] Scroll direction: Natural
         - Tracking speed: Fastest
     ```
-- Accessibility setup
     ```
-    System Preferences -> Accessibility
 
-    - Zoom -> Use scroll gesture... -> Control
-    - Pointer Control -> Trackpad Options... -> Enable dragging -> three finger drag
     ```
 - remapping caps lock to ctrl (need to do it for every keyboard)
     ```
