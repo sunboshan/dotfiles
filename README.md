@@ -79,6 +79,14 @@
     - Scroll & Zoom
         [ ] Scroll direction: Natural
     ```
+- Date & Time setup
+    ```
+    System Preferences -> Date & Time
+
+    - Clock
+        [x] Display the time with seconds
+        [x] Show date
+    ```
 - show hidden files
     ```
     defaults write com.apple.Finder AppleShowAllFiles true
