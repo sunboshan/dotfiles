@@ -1,6 +1,37 @@
 # dotfiles
 ![](https://user-images.githubusercontent.com/4976854/81347627-65b0a100-9071-11ea-91e7-3a3a8381c043.gif)
 
+## Mac OSX
+
+- show hidden files
+    ```
+    defaults write com.apple.Finder AppleShowAllFiles true
+    killall Finder
+    ```
+- key repeat faster
+    ```
+    defaults write -g InitialKeyRepeat -int 10
+    defaults write -g KeyRepeat -int 1
+    # then log out and log in
+    ```
+- three finger drag
+    ```
+    System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
+    ```
+- remapping caps lock to ctrl (need to do it for every keyboard)
+    ```
+    System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
+    ```
+- app shortcuts
+   ```
+   System Preferences -> Keyboard -> Shortcuts -> App Shortcuts
+
+   - Google Chrome.app
+       - Pin Tab               shift + cmd + p
+       - Select Next Tab       cmd + k
+       - Select Previous Tab   cmd + j
+   ```
+
 ## software
 
 - [brew](https://brew.sh)
@@ -93,37 +124,6 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 ## .tigrc
 
 1. ``ln -s `pwd`/tigrc ~/.tigrc``
-
-## Mac OSX
-
-- show hidden files
-    ```
-    defaults write com.apple.Finder AppleShowAllFiles true
-    killall Finder
-    ```
-- key repeat faster
-    ```
-    defaults write -g InitialKeyRepeat -int 10
-    defaults write -g KeyRepeat -int 1
-    # then log out and log in
-    ```
-- three finger drag
-    ```
-    System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
-    ```
-- remapping caps lock to ctrl (need to do it for every keyboard)
-    ```
-    System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
-    ```
-- app shortcuts
-   ```
-   System Preferences -> Keyboard -> Shortcuts -> App Shortcuts
-
-   - Google Chrome.app
-       - Pin Tab               shift + cmd + p
-       - Select Next Tab       cmd + k
-       - Select Previous Tab   cmd + j
-   ```
 
 ## setup guide
 
