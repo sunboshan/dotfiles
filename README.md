@@ -10,6 +10,16 @@
 - `brew cask install dashlane`
 - `brew cask install google-chrome`
 - `brew cask install divvy`
+  ```
+  - General
+      - Global shortcut: cmd + shift + d
+  - Appearance
+      - Columns: 7
+  - Shortcuts
+      - A: |*****  |
+      - D: |  *****|
+      - S: |*******|
+  ```
 - `brew cask install sogouinput`
 - `brew install tmux`
 - `brew install nvim`
