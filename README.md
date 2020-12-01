@@ -119,6 +119,18 @@
       - D: |  *****|
       - S: |*******|
   ```
+- `brew cask install alfred`
+  ```
+  - General
+      - Alfred Hotkey: cmd + space
+  - Features
+      - Clipboard History
+          [x] Keep Plain Text
+          [x] Keep Images
+      - Viewer Hotkey: cmd + shift + c
+  - Powerpack
+      - License in Dashlane
+  ```
 - `brew cask install sogouinput`
   ```
   Need to run the installer to install
