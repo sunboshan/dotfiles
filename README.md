@@ -28,17 +28,19 @@
 - `brew install tmux`
 - `brew install nvim`
 - `brew install yudai/gotty/gotty`
-- `brew install ag`
-- `brew install fd`
 - `brew install tig`
-- `brew install bat`
-- `brew install cloc`
-- `brew install asdf`
-- `brew install multitail`
+
+- `brew install ag`
 - `brew install autojump`
-- `brew install ranger`
+- `brew install cloc`
 - `brew install fzf`
 - `brew install urlview`
+
+- `brew install asdf`
+- `brew install multitail`
+- `brew install ranger`
+- `brew install fd`
+- `brew install bat`
 - `brew cask install iterm2` (deprecated)
 
 ## .zshrc
