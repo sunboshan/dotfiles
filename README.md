@@ -37,6 +37,14 @@
     [x] Automatically hide and show the Dock
     [ ] Show recently applications in Dock
     ```
+- Mission Control setup
+    ```
+    System Preferences -> Mission Control
+
+    [x] Group windows by application
+    - Mission Control:     F3
+    - Application windows: F4
+    ```
 - app shortcuts
    ```
    System Preferences -> Keyboard -> Shortcuts -> App Shortcuts
