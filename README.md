@@ -29,11 +29,13 @@
 - `brew install nvim`
 - `brew install yudai/gotty/gotty`
 - `brew install tig`
+- ---
 - `brew install ag`
 - `brew install autojump`
 - `brew install cloc`
 - `brew install fzf`
 - `brew install urlview`
+- ---
 - `brew install asdf`
 - `brew install multitail`
 - `brew install ranger`
