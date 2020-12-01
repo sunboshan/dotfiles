@@ -36,6 +36,39 @@
     [x] Play feedback when volume is changed
     [x] Show volume in menu bar
     ```
+- Keyboard setup
+    ```
+    System Preferences -> Keyboard
+
+    - Keyboard
+        - Customize Control Strip...
+            - [Brightness|Sound|Mute|DoNotDisturb]
+        - Modifier Keys...
+            - Caps Lock Key: Control
+    - Shortcuts
+        - Mission Control
+            - Move left a space: ctrl + shift + h
+            - Move right a space: ctrl + shift + l
+        - Keyboard
+            - Move focus to the menu bar: alt + cmd + 1
+            - Move focus to status menus: alt + cmd + 2
+        - Input Sources
+            - Select the previous input source: alt + space
+        - Screenshots
+            [ ] unselect all others
+            [x] Copy picture of selected area to the clipboard: shift + cmd + 2
+            [x] Screenshot and recording options: shift + cmd + 1
+        - Spotlight
+            [x] Show Spotlight search: alt + space
+            [ ] Show Finder search window
+        - App Shortcuts
+            - Google Chrome
+                - Pin Tab: shift + cmd + p
+                - Select Next Tab: cmd + k
+                - Select Previous Tab: cmd + j
+    - Input Sources
+        [x] Show Input menu in menu bar
+    ```
 - Trackpad setup
     ```
     System Preferences -> Trackpad
@@ -45,24 +78,7 @@
         - Tracking speed: Fastest
     - Scroll & Zoom
         [ ] Scroll direction: Natural
-        - Tracking speed: Fastest
     ```
-    ```
-
-    ```
-- remapping caps lock to ctrl (need to do it for every keyboard)
-    ```
-    System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
-    ```
-- app shortcuts
-   ```
-   System Preferences -> Keyboard -> Shortcuts -> App Shortcuts
-
-   - Google Chrome.app
-       - Pin Tab               shift + cmd + p
-       - Select Next Tab       cmd + k
-       - Select Previous Tab   cmd + j
-   ```
 - show hidden files
     ```
     defaults write com.apple.Finder AppleShowAllFiles true
