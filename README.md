@@ -33,13 +33,12 @@
         [ ] Scroll direction: Natural
         - Tracking speed: Fastest
     ```
-- three finger drag
+- Accessibility setup
     ```
-    System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
-    ```
-- scroll zoom in
-    ```
-    System Preferences -> Accessibility -> Zoom -> Use scroll gesture... -> Control
+    System Preferences -> Accessibility
+
+    - Zoom -> Use scroll gesture... -> Control
+    - Pointer Control -> Trackpad Options... -> Enable dragging -> three finger drag
     ```
 - remapping caps lock to ctrl (need to do it for every keyboard)
     ```
