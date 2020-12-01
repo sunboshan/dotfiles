@@ -50,7 +50,7 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 
 - [brew](https://brew.sh)
   ```
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
 - `brew cask install iterm2` (deprecated)
 - `brew install tmux`
