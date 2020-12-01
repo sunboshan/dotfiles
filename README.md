@@ -18,6 +18,10 @@
     ```
     System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
     ```
+- scroll zoom in
+    ```
+    System Preferences -> Accessibility -> Zoom -> Use scroll gusture... -> Control
+    ```
 - remapping caps lock to ctrl (need to do it for every keyboard)
     ```
     System Preferences -> Keyboard -> Modifier Keys... -> Caps Lock Key: Control
