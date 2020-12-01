@@ -1,6 +1,32 @@
 # dotfiles
 ![](https://user-images.githubusercontent.com/4976854/81347627-65b0a100-9071-11ea-91e7-3a3a8381c043.gif)
 
+## softwares
+
+- [brew](https://brew.sh)
+  ```
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  ```
+- `brew cask install iterm2` (deprecated)
+- `brew install tmux`
+- `brew install nvim`
+- `brew install yudai/gotty/gotty`
+- `brew cask install google-chrome`
+- `brew cask install dashlane`
+- `brew cask install divvy`
+- `brew cask install sogouinput`
+- `brew install ag`
+- `brew install fd`
+- `brew install tig`
+- `brew install bat`
+- `brew install cloc`
+- `brew install asdf`
+- `brew install multitail`
+- `brew install autojump`
+- `brew install ranger`
+- `brew install fzf`
+- `brew install urlview`
+
 ## .zshrc
 
 1. install [oh-my-zsh](https://ohmyz.sh/)
@@ -45,32 +71,6 @@ Ref for zsh spaceship prompt [options](https://github.com/denysdovhan/spaceship-
 1. select `materialdark`
 1. install [Meslo Slashed](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) font
 1. iTrm2 Preferences -> Profiles -> Text -> Font -> select `Meslo LG M for Powerline`
-
-## softwares
-
-- [brew](https://brew.sh)
-  ```
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-  ```
-- `brew cask install iterm2` (deprecated)
-- `brew install tmux`
-- `brew install nvim`
-- `brew install yudai/gotty/gotty`
-- `brew cask install google-chrome`
-- `brew cask install dashlane`
-- `brew cask install divvy`
-- `brew cask install sogouinput`
-- `brew install ag`
-- `brew install fd`
-- `brew install tig`
-- `brew install bat`
-- `brew install cloc`
-- `brew install asdf`
-- `brew install multitail`
-- `brew install autojump`
-- `brew install ranger`
-- `brew install fzf`
-- `brew install urlview`
 
 ## chrome extensions
 
