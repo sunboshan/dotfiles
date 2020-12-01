@@ -7,14 +7,13 @@
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
-- `brew cask install iterm2` (deprecated)
+- `brew cask install dashlane`
+- `brew cask install google-chrome`
+- `brew cask install divvy`
+- `brew cask install sogouinput`
 - `brew install tmux`
 - `brew install nvim`
 - `brew install yudai/gotty/gotty`
-- `brew cask install google-chrome`
-- `brew cask install dashlane`
-- `brew cask install divvy`
-- `brew cask install sogouinput`
 - `brew install ag`
 - `brew install fd`
 - `brew install tig`
@@ -26,6 +25,7 @@
 - `brew install ranger`
 - `brew install fzf`
 - `brew install urlview`
+- `brew cask install iterm2` (deprecated)
 
 ## .zshrc
 
