@@ -33,17 +33,6 @@
         [ ] Scroll direction: Natural
         - Tracking speed: Fastest
     ```
-- show hidden files
-    ```
-    defaults write com.apple.Finder AppleShowAllFiles true
-    killall Finder
-    ```
-- key repeat faster
-    ```
-    defaults write -g InitialKeyRepeat -int 10
-    defaults write -g KeyRepeat -int 1
-    # then log out and log in
-    ```
 - three finger drag
     ```
     System Preferences -> Accessibility -> Pointer Control -> Trackpad Options... -> Enable dragging (three finger drag)
@@ -65,6 +54,17 @@
        - Select Next Tab       cmd + k
        - Select Previous Tab   cmd + j
    ```
+- show hidden files
+    ```
+    defaults write com.apple.Finder AppleShowAllFiles true
+    killall Finder
+    ```
+- key repeat faster
+    ```
+    defaults write -g InitialKeyRepeat -int 10
+    defaults write -g KeyRepeat -int 1
+    # then log out and log in
+    ```
 
 ## software
 
