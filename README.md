@@ -79,6 +79,13 @@
     - Scroll & Zoom
         [ ] Scroll direction: Natural
     ```
+- Energy Saver setup
+    ```
+    System Preferences -> Energy Saver
+
+    - Power Adapter
+        [x] Prevent computer from sleeping automatically when the display is off
+    ```
 - Date & Time setup
     ```
     System Preferences -> Date & Time
