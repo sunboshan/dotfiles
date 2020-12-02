@@ -140,7 +140,9 @@
   ```
 - `brew cask install visual-studio-code`
   ```
-  Login using Settings Sync github account
+  - Login using Settings Sync github account
+  - enable vscode key repeat
+      - defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
   ```
 - `brew install tmux`
 - `brew install nvim`
