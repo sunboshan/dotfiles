@@ -138,6 +138,10 @@
   ```
   Need to run the installer to install
   ```
+- `brew cask install visual-studio-code`
+  ```
+  Login using Settings Sync github account
+  ```
 - `brew install tmux`
 - `brew install nvim`
 - `brew install yudai/gotty/gotty`
