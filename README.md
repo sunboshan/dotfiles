@@ -161,6 +161,7 @@
 - `brew install cloc`
 - `brew install fzf`
 - `brew install urlview`
+- `brew cask install LICEcap`
 - ---
 - `brew install asdf`
 - `brew install multitail`
