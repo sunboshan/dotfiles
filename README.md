@@ -40,6 +40,7 @@
     ```
     System Preferences -> Keyboard
 
+    [x] Use keyboard navigation to move focus between controls
     - Keyboard
         - Customize Control Strip...
             - [Brightness|Sound|Mute|DoNotDisturb]
