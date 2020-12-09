@@ -134,9 +134,13 @@
       - Alfred Hotkey: cmd + space
   - Features
       - Clipboard History
-          [x] Keep Plain Text
-          [x] Keep Images
-      - Viewer Hotkey: cmd + shift + c
+          - History
+              [x] Keep Plain Text
+              [x] Keep Images
+              - Viewer Hotkey: cmd + shift + c
+          - Advanced
+              - Ignore Apps:
+                  - Dashlane
   - Appearance
       - Options
           - Show Alfred on: active screen
