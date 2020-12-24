@@ -167,6 +167,7 @@
 - `brew install cloc`
 - `brew install fzf`
 - `brew install urlview`
+- `brew cask install snagit`
 - `brew cask install LICEcap`
 - ---
 - `brew install asdf`
