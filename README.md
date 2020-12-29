@@ -128,6 +128,8 @@
       - A: |*****  |
       - D: |  *****|
       - S: |*******|
+      - Q: upper half
+      - Z: lower half
   ```
 - `brew cask install alfred`
   ```
