@@ -172,6 +172,12 @@
 - `brew install urlview`
 - `brew cask install snagit`
 - `brew cask install LICEcap`
+- install Logitech G HUB
+  ```
+  - Commands -> Navigation (drag shortcut to mouse key)
+      - cmd + [: G5
+      - cmd + ]: G4
+  ```
 - ---
 - `brew install asdf`
 - `brew install multitail`
