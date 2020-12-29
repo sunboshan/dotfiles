@@ -176,7 +176,7 @@
 - `brew install ranger`
 - `brew install fd`
 - `brew install bat`
-- `brew cask install iterm2` (deprecated)
+- ~~`brew cask install iterm2`~~ (deprecated)
 
 ## chrome extensions
 
