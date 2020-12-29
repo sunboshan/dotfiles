@@ -171,6 +171,10 @@
 - `brew install fzf`
 - `brew install urlview`
 - `brew cask install snagit`
+  ```
+  - Image Capture: cmd + shift + 1
+  - Image Capture (copy to clipboard): cmd + shift + 2
+  ```
 - `brew cask install LICEcap`
 - install Logitech G HUB
   ```
