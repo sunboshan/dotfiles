@@ -56,8 +56,8 @@
             - Select the previous input source: alt + space
         - Screenshots
             [ ] unselect all others
-            [x*] Copy picture of selected area to the clipboard: shift + cmd + 2
-            [x*] Screenshot and recording options: shift + cmd + 1
+            [x]* Copy picture of selected area to the clipboard: shift + cmd + 2
+            [x]* Screenshot and recording options: shift + cmd + 1
             * unselect if using snagit for screenshots
         - Spotlight
             [x] Show Spotlight search: alt + space
