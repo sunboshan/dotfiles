@@ -115,9 +115,9 @@
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
-- `brew cask install dashlane`
-- `brew cask install google-chrome`
-- `brew cask install divvy`
+- `brew install --cask dashlane`
+- `brew install --cask google-chrome`
+- `brew install --cask divvy`
   ```
   - General
       - Global shortcut: cmd + shift + d
@@ -131,7 +131,7 @@
       - Q: upper half
       - Z: lower half
   ```
-- `brew cask install alfred`
+- `brew install --cask alfred`
   ```
   - General
       - Alfred Hotkey: cmd + space
@@ -150,11 +150,11 @@
   - Powerpack
       - License in Dashlane
   ```
-- `brew cask install sogouinput`
+- `brew install --cask sogouinput`
   ```
   Need to run the installer to install
   ```
-- `brew cask install visual-studio-code`
+- `brew install --cask visual-studio-code`
   ```
   - Login using Settings Sync github account
   - enable vscode key repeat
@@ -170,12 +170,12 @@
 - `brew install cloc`
 - `brew install fzf`
 - `brew install urlview`
-- `brew cask install snagit`
+- `brew install --cask snagit`
   ```
   - Image Capture: cmd + shift + 1
   - Image Capture (copy to clipboard): cmd + shift + 2
   ```
-- `brew cask install LICEcap`
+- `brew install --cask LICEcap`
 - install Logitech G HUB
   ```
   - Commands -> Navigation (drag shortcut to mouse key)
