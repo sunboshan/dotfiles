@@ -14,10 +14,12 @@
   'use strict';
 
   var css = `
+  /* remove homepage recommendations */
   #contents.ytd-rich-grid-renderer {
     display: none;
   }
 
+  /* remove video page side recommendations */
   #secondary {
     display: none;
   }
