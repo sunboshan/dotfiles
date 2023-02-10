@@ -23,6 +23,11 @@
   #secondary {
     display: none;
   }
+
+  /* remove video page ads */
+  .ytp-ad-overlay-slot {
+    display: none;
+  }
 `;
 
   function addGlobalStyle(css) { // stolen from http://greasemonkey.win-start.de/patterns/add-css.html
