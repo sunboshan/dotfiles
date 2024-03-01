@@ -32,7 +32,6 @@
     System Settings -> Sound
 
     [x] Play feedback when volume is changed
-    [x] Show volume in menu bar
     ```
 - Keyboard setup
     ```
