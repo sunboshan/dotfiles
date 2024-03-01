@@ -33,6 +33,23 @@
 
     [x] Play feedback when volume is changed
     ```
+- Control Center setup
+    ```
+    System Settings -> Control Center
+
+    Control Center Modules
+    - Focus: Always Show in Menu Bar
+    - Sound: Always Show in Menu Bar
+
+    Other Modules
+    - Bettery
+        [x] Show Percentage
+
+    Menu Bar Only
+    - Clock -> Cloud Options...
+        - Show date: Always
+        - [x] Display the time with seconds
+    ```
 - Keyboard setup
     ```
     System Settings -> Keyboard
