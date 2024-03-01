@@ -54,37 +54,26 @@
     ```
     System Settings -> Keyboard
 
-    - Keyboard
-        - Customize Control Strip...
-            - [Brightness|Sound|Mute|DoNotDisturb]
-        - Modifier Keys...
-            - Caps Lock Key: Control
-    - Shortcuts
+    - Keyboard Shortcuts
         - Mission Control
             - Move left a space: ctrl + shift + h
             - Move right a space: ctrl + shift + l
-        - Keyboard
-            - Move focus to the menu bar: alt + cmd + 1
-            - Move focus to status menus: alt + cmd + 2
         - Input Sources
-            - Select the previous input source: alt + space
+            - Select the previous input source: ctrl + space
         - Screenshots
-            [ ] unselect all others
-            [x]* Copy picture of selected area to the clipboard: shift + cmd + 2
-            [x]* Screenshot and recording options: shift + cmd + 1
-            * unselect if using snagit for screenshots
+            [ ] unselect all (using snagit instead)
         - Spotlight
-            [x] Show Spotlight search: alt + space
+            [x] Show Spotlight search: option + space
             [ ] Show Finder search window
         - App Shortcuts
             - Google Chrome
                 - Pin Tab: shift + cmd + p
                 - Select Next Tab: cmd + k
                 - Select Previous Tab: cmd + j
+        - Modifier Keys
+            - Caps Lock Key: Control
     - Input Sources
         [x] Show Input menu in menu bar
-
-    [x] Use keyboard navigation to move focus between controls
     ```
 - Trackpad setup
     ```
