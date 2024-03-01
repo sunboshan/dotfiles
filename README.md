@@ -3,21 +3,19 @@
 
 ## Mac OSX
 
-- Dock setup
+- Desktop & Dock setup
     ```
     System Settings -> Desktop & Dock
 
+    Dock
     - Size: smallest
     - Position on screen: Left
     - Minimize window using: Scale effect
     [x] Minimize windows into application icon
     [ ] Automatically hide and show the Dock
     [ ] Show suggested and recent apps in Dock
-    ```
-- Mission Control setup
-    ```
-    System Settings -> Mission Control
 
+    Mission Control
     [x] Group windows by application
     - Mission Control:     F3
     - Application windows: F4
