@@ -5,7 +5,7 @@
 
 - Dock setup
     ```
-    System Preferences -> Dock
+    System Settings -> Dock
 
     - Size: smallest
     - Position on screen: Left
@@ -16,7 +16,7 @@
     ```
 - Mission Control setup
     ```
-    System Preferences -> Mission Control
+    System Settings -> Mission Control
 
     [x] Group windows by application
     - Mission Control:     F3
@@ -24,21 +24,21 @@
     ```
 - Accessibility setup
     ```
-    System Preferences -> Accessibility
+    System Settings -> Accessibility
 
     - Zoom -> Use scroll gesture... -> Control
     - Pointer Control -> Trackpad Options... -> Enable dragging -> three finger drag
     ```
 - Sound setup
     ```
-    System Preferences -> Sound
+    System Settings -> Sound
 
     [x] Play feedback when volume is changed
     [x] Show volume in menu bar
     ```
 - Keyboard setup
     ```
-    System Preferences -> Keyboard
+    System Settings -> Keyboard
 
     - Keyboard
         - Customize Control Strip...
@@ -74,7 +74,7 @@
     ```
 - Trackpad setup
     ```
-    System Preferences -> Trackpad
+    System Settings -> Trackpad
 
     - Point & Click
         [x] Tap to click
@@ -84,14 +84,14 @@
     ```
 - Energy Saver setup
     ```
-    System Preferences -> Energy Saver
+    System Settings -> Energy Saver
 
     - Power Adapter
         [x] Prevent computer from sleeping automatically when the display is off
     ```
 - Date & Time setup
     ```
-    System Preferences -> Date & Time
+    System Settings -> Date & Time
 
     - Clock
         [x] Display the time with seconds
