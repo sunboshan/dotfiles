@@ -24,8 +24,8 @@
     ```
     System Settings -> Accessibility
 
-    - Zoom -> Use scroll gesture... -> Control
-    - Pointer Control -> Trackpad Options... -> Enable dragging -> three finger drag
+    - Zoom -> Use scroll gesture with modifier keys to zoom -> Control
+    - Pointer Control -> Trackpad Options... -> Use trackpad for dragging -> Three Finger Drag
     ```
 - Sound setup
     ```
