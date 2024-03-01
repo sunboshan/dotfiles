@@ -83,7 +83,7 @@
         [x] Tap to click
         - Tracking speed: Fastest
     - Scroll & Zoom
-        [ ] Scroll direction: Natural
+        [ ] Natural scrolling
     ```
 - Energy Saver setup
     ```
