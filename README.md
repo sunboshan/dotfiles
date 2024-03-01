@@ -5,14 +5,14 @@
 
 - Dock setup
     ```
-    System Settings -> Dock
+    System Settings -> Desktop & Dock
 
     - Size: smallest
     - Position on screen: Left
     - Minimize window using: Scale effect
     [x] Minimize windows into application icon
-    [x] Automatically hide and show the Dock
-    [ ] Show recently applications in Dock
+    [ ] Automatically hide and show the Dock
+    [ ] Show suggested and recent apps in Dock
     ```
 - Mission Control setup
     ```
