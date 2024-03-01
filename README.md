@@ -92,14 +92,6 @@
     - Power Adapter
         [x] Prevent computer from sleeping automatically when the display is off
     ```
-- Date & Time setup
-    ```
-    System Settings -> Date & Time
-
-    - Clock
-        [x] Display the time with seconds
-        [x] Show date
-    ```
 - show hidden files
     ```
     defaults write com.apple.Finder AppleShowAllFiles true
